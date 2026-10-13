@@ -15,6 +15,14 @@ The objective of this project is to enable students to create an image gallery u
 | **Difficulty Level** | Beginner |
 | **Primary Skills** | HTML, CSS Grid, Git |
 
+## Team Members
+| Name | Task |
+|---|---|
+| **Saksham Mittal** | Power Point Presentation |
+| **Aryan Tripathi** | HTML  |
+| **Astha Rastogi** | CSS Styling |
+| **Siddharth Singh** | JavaScript Responsiveness |
+
 ### Problem Description
 
 Design a responsive image gallery using CSS Grid to display images in a structured layout.
